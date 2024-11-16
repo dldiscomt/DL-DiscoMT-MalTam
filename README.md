@@ -86,15 +86,15 @@ Or on Ubuntu:
 
 ## Screenshots
 input :"തമിഴ്നാട്ടിലെ 50 മികച്ച ടൂറിസ്റ്റ് സ്ഥലങ്ങൾ"
-![App Screenshot](https://github.com/dldiscomt/DL-DiscoMT-HinTam/blob/main/OutputScreenshots/Screenshot%20from%202024-09-10%2015-37-03.png?raw=true)
+![App Screenshot](https://github.com/dldiscomt/DL-DiscoMT-MalTam/blob/main/OutputScreenshots/Picture1.png?raw=true)
 
 
 input :"മിലനാട് സംസ്ഥാനത്ത് നിരവധി സ്ഥലങ്ങളുണ്ട്. എന്നിരുന്നാലും, തമിഴ്‌നാട്ടിലെ ചില മികച്ച വിനോദസഞ്ചാര സ്ഥലങ്ങൾക്കായി തിരയുമ്പോൾ, തമിഴ്‌നാട്ടിലെ ഏറ്റവും മികച്ച സ്ഥലങ്ങളുടെ ഒരു ലിസ്റ്റ് ഇവിടെയുണ്ട്."
-![App Screenshot ](https://github.com/dldiscomt/DL-DiscoMT-HinTam/blob/main/OutputScreenshots/Screenshot%20from%202024-09-10%2015-38-40.png?raw=true)
+![App Screenshot ](https://github.com/dldiscomt/DL-DiscoMT-MalTam/blob/main/OutputScreenshots/Picture2.png?raw=true)
 
 
 input :"നിങ്ങൾക്ക് ഈ ലിസ്റ്റ് ഉപയോഗിക്കാനും നിങ്ങളുടെ അടുത്ത യാത്രയ്ക്കുള്ള സ്ഥലങ്ങൾ തിരഞ്ഞെടുക്കാനും കഴിയും."
-![App Screenshot](https://github.com/dldiscomt/DL-DiscoMT-HinTam/blob/main/OutputScreenshots/Screenshot%20from%202024-09-10%2016-08-46.png?raw=true)
+![App Screenshot](https://github.com/dldiscomt/DL-DiscoMT-MalTam/blob/main/OutputScreenshots/Picture3.png?raw=true)
 
 
 ## Demo
